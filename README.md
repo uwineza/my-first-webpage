@@ -11,7 +11,7 @@ My first webpage show differents elements used in HTML and also the indentation 
 * format
 ## Known Bugs
 ## Technologies Used
-To build my first webpage I use HTML and also I use terminal andvisiol studio code-URL Handle in order to push all contents in GitHub.
+To build my first webpage I use HTML and also I use terminal and visiol studio code-URL Handle in order to push all contents in GitHub.
 ## Support and contact details
-For any question or comments or sugestion please call me tothis number:0785564574 or send email on niyinezafofo@gmail.com.
+For any question or comments or sugestion please call me to this number:0785564574 or send email to niyinezafofo@gmail.com.
 Copyright (c) 2018**uwineza*
