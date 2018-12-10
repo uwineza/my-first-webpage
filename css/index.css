@@ -1,0 +1,15 @@
+h1 {
+    color: blue;
+    text-align: center;
+    font-family:sans serif
+  }
+  body{
+      background-color:brown;
+      font-size:large;
+      margin-left:100px;
+  }
+  footer{
+      text-align:center;
+      font-style:italic;
+      background-color:white;
+  }
